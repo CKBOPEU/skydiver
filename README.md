@@ -4,7 +4,7 @@ SkyDiver is a complete browser arcade game built with JavaScript and Phaser 3 fo
 
 ## Live demo
 
-The public browser demo is published separately. Yandex Games services such as ads, cloud saves, purchases, and leaderboards are replaced with safe local fallbacks outside the platform.
+[Play the public browser demo](https://skydiver-game.glad-hen-8100.chatgpt.site/). Yandex Games services such as ads, cloud saves, purchases, and leaderboards are replaced with safe local fallbacks outside the platform.
 
 ## Highlights
 
